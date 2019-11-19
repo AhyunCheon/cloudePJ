@@ -1,2 +1,0 @@
-# cloudePJ
-cloude computing project
